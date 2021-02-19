@@ -1,1 +1,2 @@
 # sample
+hash c code
